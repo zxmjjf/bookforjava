@@ -1,7 +1,6 @@
-package com.textbookcode;
+package com.chaptor03.textbookcode;
 
 import java.util.Arrays;
-import java.util.Random;
 import java.util.Scanner;
 
 /**

@@ -20,7 +20,7 @@ package com.knowledge;
  * 用法：intanceof 右边的数据类型如果是父类，或者祖先类，是一种十分糟糕的设计。而应该是具体的子类，相对右边对象变量来说
  *
  * */
-public class TextInstanceof {
+public class Instanceof {
     public static void main(String[] args) {
         /**对象变量的类型为基类*/
         Parent parent1 = new Parent(); //实际类型与声明类型不同

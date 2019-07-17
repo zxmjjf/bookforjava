@@ -30,19 +30,19 @@ import java.util.Objects;
  *          4.一致性: 如果x和y对象没有改变，则x.equals(y)的结果始终不变。
  *          5.对于任意的非空引用x，x.equals(null)结果为false；
  */
-public class TextEquals {
+public class Equals {
     private String name;
     private long iD;
 
     /**构造函数*/
-    TextEquals(String name, long iD){
+    Equals(String name, long iD){
         this.name = name;
         this.iD = iD;
     }
 
     public static void main(String[] args) {
-        TextEquals textEquals1 = new TextEquals("jjf", 02);
-        TextEquals textEquals2 = new TextEquals("jjf", 02);
+        Equals equals1 = new Equals("jjf", 02);
+        Equals equals2 = new Equals("jjf", 02);
         String string1 = new String("jjf");
         String string2 = new String("jjf");
         int[] arrint1 = {1, 2, 3};
@@ -51,14 +51,14 @@ public class TextEquals {
         int b = 3;
 
 
-        System.out.println("self class equals: " + textEquals1.equals(textEquals2)); //false
+        System.out.println("self class equals: " + equals1.equals(equals2)); //false
         System.out.println("String equals " + string1.equals(string2)); //true
         System.out.println("arrays equals " + arrint1.equals(arrint2)); //false
         System.out.println("use Arrays.equals() 测试数组的相等性 " + Arrays.equals(arrint1, arrint2)); //true
         System.out.println("int equals " + ((Integer)a).equals(3)); //true
 
         System.out.println(Objects.equals(string1, string2)); //true
-        System.out.println(Objects.equals(textEquals1, textEquals2)); //false
+        System.out.println(Objects.equals(equals1, equals2)); //false
 
     }
 

@@ -1,4 +1,4 @@
-package com.chaptor03.selfprocedure;
+package com.knowledge;
 /**
  * 字符串变量的值只是一个引用变量，其指向两种字符串类型值：
  *      a) 字符串字面量：字符串字面量是共享的，即编译器会为java字符字面量分配特殊的内存池
@@ -15,7 +15,7 @@ package com.chaptor03.selfprocedure;
  */
 
 
-public class StringKnow {
+public class TextString {
     public static void main(String[] args) {
         String a1 = "aaa"; //字符串字面量；a1
         String a2 = "aaa"; // a1 与  a2 的值相同

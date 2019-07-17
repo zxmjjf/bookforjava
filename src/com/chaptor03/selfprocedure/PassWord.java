@@ -1,4 +1,4 @@
-package com.chaptor03.text1;
+package com.chaptor03.selfprocedure;
 
 import java.util.Date;
 

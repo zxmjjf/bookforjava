@@ -1,4 +1,4 @@
-package com.chaptor03.text1;
+package com.chaptor03.selfprocedure;
 
 /**
  * 所有浮点数的计算都遵循IEEE 754 规范
