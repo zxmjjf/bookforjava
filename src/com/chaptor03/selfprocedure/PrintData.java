@@ -2,7 +2,7 @@ package com.chaptor03.selfprocedure;
 
 import java.util.Date;
 
-public class PassWord {
+public class PrintData {
     public static void main(String[] args) {
         System.out.printf("%tc", new Date());
         System.out.println();

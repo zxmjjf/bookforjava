@@ -1,35 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/knowledge/Equals.java" line="22" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7137af64-8afc-41e8-811a-520dc14aaa51" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/selfprocedure/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/selfprocedure/Fileio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/selfprocedure/ForXunHuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/selfprocedure/Ieee754Standard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/selfprocedure/PassWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/selfprocedure/StringAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/selfprocedure/StringKnow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/selfprocedure/UnicodePrint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/textbookcode/Code3_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/ClassA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/HasCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/TextString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/knowledge/HasCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/knowledge/TextString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor05/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor05/ParseInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor05/selfprocedure/MyArraysQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor05/textbookcode/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/knowledge/Object.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/TextEquals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Equals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Fileio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Fileio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/ForXunHuan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/ForXunHuan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Ieee754Standard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Ieee754Standard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/PassWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/PassWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringKnow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringKnow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/UnicodePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/UnicodePrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/textbookcode/Code3_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/textbookcode/Code3_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/knowledge/TextEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/knowledge/Equals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/knowledge/TextHasCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/knowledge/TextInstanceof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/knowledge/Instanceof.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookforjava/com/chaptor03/selfprocedure/PassWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Child1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Child1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Child2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Child2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Child2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Child2_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bookforjava/com/knowledge/TextInstanceof.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/PassWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/PrintData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/knowledge/Equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/knowledge/Equals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/knowledge/Instanceof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/knowledge/Instanceof.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,34 +31,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HasCode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/knowledge/HasCode.java">
+      <file leaf-file-name="ReflectionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chaptor05/textbookcode/ReflectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2184">
-              <caret line="88" selection-start-line="88" selection-end-line="88" />
+            <state relative-caret-position="-280">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2371#2372#0" expanded="true" />
-                <element signature="e#2407#2408#0" expanded="true" />
+                <element signature="method#printConstructors#0;class#ReflectionTest#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForXunHuan.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/ForXunHuan.java">
+      <file leaf-file-name="CalendarTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chaptor04/textbookcode/CalendarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="308">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TextString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/knowledge/TextString.java">
+      <file leaf-file-name="StringAPI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Array.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/PrintData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyArraysQuestion.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/chaptor05/selfprocedure/MyArraysQuestion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <folding>
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/knowledge/Object.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -103,6 +139,17 @@
         <option value="$PROJECT_DIR$/src/com/knowledge/TextString.java" />
         <option value="$PROJECT_DIR$/src/com/knowledge/TextHasCode.java" />
         <option value="$PROJECT_DIR$/src/com/knowledge/HasCode.java" />
+        <option value="$PROJECT_DIR$/src/com/knowledge/Instanceof.java" />
+        <option value="$PROJECT_DIR$/src/com/knowledge/Equals.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor05/Holder.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor05/ParseInt.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor05/Enum.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor05/textbookcode/ReflectionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/PrintData.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor04/selfprocedure/MyArraysQuestion.java" />
+        <option value="$PROJECT_DIR$/src/com/knowledge/Object.java" />
+        <option value="$PROJECT_DIR$/src/com/knowledge/Object.txt" />
+        <option value="$PROJECT_DIR$/src/com/chaptor05/selfprocedure/MyArraysQuestion.java" />
       </list>
     </option>
   </component>
@@ -113,10 +160,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="420" />
-    <option name="y" value="140" />
-    <option name="width" value="1195" />
-    <option name="height" value="1030" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -126,8 +173,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,7 +213,14 @@
               <item name="bookforjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="chaptor03" type="462c0819:PsiDirectoryNode" />
+              <item name="chaptor04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookforjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chaptor04" type="462c0819:PsiDirectoryNode" />
               <item name="textbookcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -174,14 +228,31 @@
               <item name="bookforjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="chaptor04" type="462c0819:PsiDirectoryNode" />
+              <item name="chaptor05" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bookforjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="bookforjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="chaptor04" type="462c0819:PsiDirectoryNode" />
+              <item name="chaptor05" type="462c0819:PsiDirectoryNode" />
+              <item name="selfprocedure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bookforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookforjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chaptor05" type="462c0819:PsiDirectoryNode" />
+              <item name="selfprocedure" type="462c0819:PsiDirectoryNode" />
+              <item name="MyArraysQuestion.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="bookforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bookforjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="chaptor05" type="462c0819:PsiDirectoryNode" />
               <item name="textbookcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -191,11 +262,15 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="knowledge" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="bookforjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -218,58 +293,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TextHasCode">
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chaptor04.textbookcode.CalendarTest" />
+  <component name="RunManager" selected="Application.MyArraysQuestion">
+    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chaptor05.Enum" />
       <module name="bookforjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chaptor04.textbookcode.*" />
+          <option name="PATTERN" value="com.chaptor05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.knowledge.Equals" />
+    <configuration name="MyArraysQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chaptor05.selfprocedure.MyArraysQuestion" />
       <module name="bookforjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.knowledge.*" />
+          <option name="PATTERN" value="com.chaptor05.selfprocedure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="HasCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.knowledge.HasCode" />
+    <configuration name="ParseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chaptor05.ParseInt" />
       <module name="bookforjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.knowledge.*" />
+          <option name="PATTERN" value="com.chaptor05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Instanceof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.knowledge.Instanceof" />
-      <module name="bookforjava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.knowledge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StringKnow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chaptor03.selfprocedure.StringKnow" />
+    <configuration name="PrintData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chaptor03.selfprocedure.PrintData" />
       <module name="bookforjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.chaptor03.selfprocedure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chaptor05.textbookcode.ReflectionTest" />
+      <module name="bookforjava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chaptor05.textbookcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,19 +391,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CalendarTest" />
-      <item itemvalue="Application.TextEquals" />
-      <item itemvalue="Application.TextInstanceof" />
-      <item itemvalue="Application.StringKnow" />
-      <item itemvalue="Application.TextHasCode" />
+      <item itemvalue="Application.ParseInt" />
+      <item itemvalue="Application.Enum" />
+      <item itemvalue="Application.ReflectionTest" />
+      <item itemvalue="Application.PrintData" />
+      <item itemvalue="Application.MyArraysQuestion" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TextHasCode" />
-        <item itemvalue="Application.StringKnow" />
-        <item itemvalue="Application.TextEquals" />
-        <item itemvalue="Application.TextInstanceof" />
-        <item itemvalue="Application.CalendarTest" />
+        <item itemvalue="Application.MyArraysQuestion" />
+        <item itemvalue="Application.PrintData" />
+        <item itemvalue="Application.ReflectionTest" />
+        <item itemvalue="Application.Enum" />
+        <item itemvalue="Application.ParseInt" />
       </list>
     </recent_temporary>
   </component>
@@ -347,6 +422,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.3297587" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -357,13 +433,13 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3651926" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3266762" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Sequence" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23680456" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23680456" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -386,6 +462,64 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/HasCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/Equals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/ForXunHuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/TextString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/HasCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/TextString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/ForXunHuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chaptor04/textbookcode/CalendarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -473,13 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/Instanceof.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2156">
-          <caret line="77" column="17" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/production/bookforjava/com/chaptor04/textbookcode/CalendarTest.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-831">
@@ -487,33 +614,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/Equals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor04/textbookcode/CalendarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-551">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Array.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Fileio.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/PassWord.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/chaptor03/textbookcode/Code3_7.java">
@@ -533,20 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringKnow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1792">
-          <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -558,10 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="1177" column="5" selection-start-line="1175" selection-start-column="26" selection-end-line="1177" selection-end-column="5" />
-          <folding>
-            <element signature="e#45258#45259#0" expanded="true" />
-            <element signature="e#45304#45305#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -576,6 +659,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/ForXunHuan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/knowledge/TextString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -585,20 +675,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/knowledge/HasCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2184">
+        <state relative-caret-position="429">
           <caret line="88" selection-start-line="88" selection-end-line="88" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2371#2372#0" expanded="true" />
-            <element signature="e#2407#2408#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/ForXunHuan.java">
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/Instanceof.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="-616">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor05/Holder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/Equals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor05/ParseInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor05/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor04/textbookcode/CalendarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringKnow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/PrintData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor05/textbookcode/ReflectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#printConstructors#0;class#ReflectionTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/Object.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor05/selfprocedure/MyArraysQuestion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
