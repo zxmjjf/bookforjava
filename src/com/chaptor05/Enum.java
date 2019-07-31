@@ -1,8 +1,5 @@
 package com.chaptor05;
 
-import java.sql.SQLOutput;
-import java.util.Arrays;
-
 public class Enum {
     public static enum Size {SMALL, MEDIUM, LARGE, EXTRA_LARGE}
     public static void main(String[] args) {

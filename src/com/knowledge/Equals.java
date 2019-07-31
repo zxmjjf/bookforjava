@@ -5,8 +5,8 @@ import java.util.Objects;
 
 /**
  * 测试Object类的 euqals()方法的实现原理
- * @aothor jjf
- * @version 1.0.1  2017-07-16
+ * @author  jjf
+ * @version 1.0.1  2019-07-16
  *
  * 结论：
  *      Object类中的equals方法默认比较的的是两个对象变量的引用值是否相等，即是否为同一变量；
