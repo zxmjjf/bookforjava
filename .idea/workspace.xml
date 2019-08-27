@@ -5,10 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7137af64-8afc-41e8-811a-520dc14aaa51" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/chaptor08/bookfortext/GenericReflectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chaptor08/generic/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/chaptor08/genericpinb/Bind1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_1_Vector/VectorOfMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_1_Vector/aboutVecotr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_2_ArrayList/aboutArrayList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_3_ArrayDeque/aboutArrayDeque.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_3_LinkedLIst/LinkedListOfMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_3_LinkedLIst/aboutLinkedList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_4_HashSet/HashSetOfMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_4_HashSet/aboutHashSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_5_TreeSet/TreeSetOfMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_5_TreeSet/aboutTreeSet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_6_PriorityQueue/PriorityQueueOfMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_6_PriorityQueue/aboutPriorityQueue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_7_TreeMap/SortedMapToTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_7_TreeMap/TreeMapOfMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_7_TreeMap/aboutTreeMap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_8_HashMap/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAPI/API_8_HashMap/aboutHashMao" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor09/collection/mylist/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor09/collection/mylist/MyListADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor09/collection/set/hashSet/TextHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor09/text/Text1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor09/text/Text2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor10/IamgeUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor10/Myself1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor10/PlafFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chaptor10/PreferencesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/knowledge/classOfText/GetNmae.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/knowledge/TextString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/knowledge/TextString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,25 +43,60 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bookforjava" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Bind1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/chaptor08/genericpinb/Bind1.java">
+      <file leaf-file-name="PlafFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chaptor10/PlafFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            <state relative-caret-position="128">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenericReflectionTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/chaptor08/bookfortext/GenericReflectionTest.java">
+      <file leaf-file-name="IamgeUse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chaptor10/IamgeUse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+            <state relative-caret-position="864">
+              <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+              <folding>
+                <element signature="e#738#739#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PreferencesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/chaptor10/PreferencesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#printMethod#0;class#GenericReflectionTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JarTest1.class" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00af004000360095007900c500e100e9.temp/com/test1/JarTest1.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageIcon.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/ImageIcon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5440">
+              <caret line="216" selection-start-line="216" selection-end-line="216" />
+              <folding>
+                <element signature="e#6742#6743#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,11 +107,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,42 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/chaptor03/text1/UnicodePrint.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/UnicodePrint.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringKnow.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/StringKnow.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/TextHasCode.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/HasCode.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/Instanceof.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor05/Holder.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor05/ParseInt.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor05/textbookcode/ReflectionTest.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/PrintData.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor04/selfprocedure/MyArraysQuestion.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/Object.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor05/selfprocedure/MyArraysQuestion.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/Object.txt" />
-        <option value="$PROJECT_DIR$/src/com/chaptor04/selfprocedure/Sort.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/selfprocedure/MyselfInterface.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/selfprocedure/IntesSort.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/selfprocedure/MyselfLambda.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/selfprocedure/myselfLamda/IntesSort.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/selfprocedure/myselfLamda/MyselfInterface.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/selfprocedure/myselfLamda/MyselfLambda.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/selfprocedure/myselfLamda/lambda.txt" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/myselfLamda/IntesSort.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/selfprocedure/text/myselfLamda/MyselfLambda.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/myselfLamda/MyselfLambda.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/textbookcode/proxyTest.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor06/textbookcode/Lambda.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor03/selfprocedure/ForXunHuan.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor05/Enum.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/Equals.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/ArrayClone.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/myselfLamda/LambdaTest1.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/myselfLamda/Lamdaparent.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/myselfLamda/MyselfInterface.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/methodreference/Test1Interface.java" />
         <option value="$PROJECT_DIR$/src/com/knowledge/methodreference/大总结.txt" />
         <option value="$PROJECT_DIR$/src/com/knowledge/methodreference/MethodReference.java" />
         <option value="$PROJECT_DIR$/src/com/knowledge/methodreference/ConstructeReference.java" />
@@ -102,14 +132,50 @@
         <option value="$PROJECT_DIR$/src/com/knowledge/proxy/Proxy1.java" />
         <option value="$PROJECT_DIR$/src/com/chaptor07/test_assert/TheFirstUseAssert.java" />
         <option value="$PROJECT_DIR$/src/com/chaptor07/test_assert/TheTwoUseAssert.java" />
-        <option value="$PROJECT_DIR$/src/com/chaptor07/test_log/Log1ForInternet.java" />
         <option value="$PROJECT_DIR$/src/com/chaptor07/test_log/Log2ForText.java" />
         <option value="$PROJECT_DIR$/src/com/chaptor07/test_log/MyFormat.java" />
-        <option value="$PROJECT_DIR$/src/com/knowledge/TextString.java" />
         <option value="$PROJECT_DIR$/src/com/chaptor08/generic/GenericMethod.java" />
         <option value="$PROJECT_DIR$/src/com/knowledge/myselfLamda/lambda.txt" />
         <option value="$PROJECT_DIR$/src/com/chaptor08/genericpinb/Bind1.java" />
         <option value="$PROJECT_DIR$/src/com/chaptor08/bookfortext/GenericReflectionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/knowledge/classOfText/GetNmae.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor07/test_log/Log1ForInternet.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor09/collection/list/MyListADT.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor09/collection/list/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor09/text/Text1.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor09/collection/set/hashSet/TextHashSet.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_1_Vector/VectorDome.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_1_Vector/about.txt" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_2_ArrayList/about.txt" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_3_LinkedLIst/about.txt" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_3_LinkedLIst/LinkedListOfMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor09/text/Text2.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_3_LinkedLIst/aboutLinkedList.txt" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_4_HashSet/LinkedListOfMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_7_TreeMap/aboutTreeMap" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_7_TreeMap/SortedMapToTreeMap.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_7_TreeMap/TreeMapOfMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_4_HashSet/about.txt" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_4_HashSet/HashSetOfMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_5_TreeSet/TreeSetOfMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_3_ArrayDeque/aboutArrayDeque.txt" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_6_PriorityQueue/PriorityQueueOfMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_6_PriorityQueue/aboutPriorityQueue" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_5_TreeSet/aboutTreeSet.txt" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_4_HashSet/aboutHashSet.txt" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_1_Vector/VectorOfMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_1_Vector/aboutVecotr.txt" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_2_ArrayList/aboutArrayList.txt" />
+        <option value="$PROJECT_DIR$/src/com/knowledge/TextString.java" />
+        <option value="$PROJECT_DIR$/src/collectionAPI/API_8_HashMap/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor10/PlafFrame.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Kuaizip/00bf00df0073006300a500ea00c100c8.temp/META-INF/MANIFEST.MF" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Kuaizip/008d007300dd004f00330039001b00cb.temp/META-INF/MANIFEST.MF" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Kuaizip/00b200a7001b0071008a003100c2003a.temp/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/com/chaptor10/IamgeUse.java" />
+        <option value="$PROJECT_DIR$/src/com/chaptor10/PreferencesTest.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Kuaizip/00ad0023006f000900ff00c4002100b3.temp/META-INF/MANIFEST.MF" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Kuaizip/00af00c300d1007300a0005b004500fc.temp/META-INF/MANIFEST.MF" />
       </list>
     </option>
   </component>
@@ -120,10 +186,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="50" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="width" value="960" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -133,6 +197,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,20 +210,20 @@
             <path>
               <item name="bookforjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="bookforjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bookforjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="bookforjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bookforjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="bookforjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="chaptor08" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="testjarProject_jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bookforjava" type="b2602c69:ProjectViewProjectNode" />
@@ -166,18 +233,28 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/knowledge/classOfText" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java核心技术卷一\bookforjava\out\production" />
+      <recent name="E:\java核心技术卷一\bookforjava\src\com\chaptor10" />
+      <recent name="E:\java核心技术卷一\bookforjava\src" />
+      <recent name="E:\java核心技术卷一\bookforjava\src\collectionAPI\API_4_HashSet" />
+      <recent name="E:\java核心技术卷一\bookforjava\src\collectionAPI\API_3_LinkedLIst" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.knowledge" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\java核心技术卷一\bookforjava\src\com\knowledge\methodreference" />
-      <recent name="E:\java核心技术卷一\bookforjava\src\com\chaptor03" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\java核心技术卷一\bookforjava\src\com\chaptor10" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -192,58 +269,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericReflectionTest">
-    <configuration name="Bind1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chaptor08.genericpinb.Bind1" />
+  <component name="RunManager" selected="JAR Application.testjarProject.jar">
+    <configuration name="IamgeUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chaptor10.IamgeUse" />
       <module name="bookforjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chaptor08.genericpinb.*" />
+          <option name="PATTERN" value="com.chaptor10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chaptor08.generic.GenericMethod" />
+    <configuration name="PreferencesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chaptor10.PreferencesTest" />
       <module name="bookforjava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.chaptor08.generic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="GenericReflectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chaptor08.bookfortext.GenericReflectionTest" />
-      <module name="bookforjava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chaptor08.bookfortext.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Log1ForInternet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chaptor07.test_log.Log1ForInternet" />
-      <module name="bookforjava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chaptor07.test_log.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MyFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chaptor07.test_log.MyFormat" />
-      <module name="bookforjava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chaptor07.test_log.*" />
+          <option name="PATTERN" value="com.chaptor10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,6 +310,15 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="Chaotor10.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Chaotor10.jar" />
+    </configuration>
+    <configuration name="testjarProject.jar (1)" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/production/testjarProject_jar/testjarProject.jar" />
+    </configuration>
+    <configuration name="testjarProject.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/testjarProject.jar" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -290,19 +343,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Log1ForInternet" />
-      <item itemvalue="Application.MyFormat" />
-      <item itemvalue="Application.GenericMethod" />
-      <item itemvalue="Application.Bind1" />
-      <item itemvalue="Application.GenericReflectionTest" />
+      <item itemvalue="Application.IamgeUse" />
+      <item itemvalue="JAR Application.Chaotor10.jar" />
+      <item itemvalue="Application.PreferencesTest" />
+      <item itemvalue="JAR Application.testjarProject.jar" />
+      <item itemvalue="JAR Application.testjarProject.jar (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericReflectionTest" />
-        <item itemvalue="Application.GenericMethod" />
-        <item itemvalue="Application.Bind1" />
-        <item itemvalue="Application.MyFormat" />
-        <item itemvalue="Application.Log1ForInternet" />
+        <item itemvalue="JAR Application.testjarProject.jar" />
+        <item itemvalue="JAR Application.testjarProject.jar (1)" />
+        <item itemvalue="JAR Application.Chaotor10.jar" />
+        <item itemvalue="Application.PreferencesTest" />
+        <item itemvalue="Application.IamgeUse" />
       </list>
     </recent_temporary>
   </component>
@@ -329,32 +382,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.3297587" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49932975" weight="0.3266762" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5020107" side_tool="true" visible="true" weight="0.3195435" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5247989" side_tool="true" weight="0.3067047" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.3195435" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47520107" weight="0.26676178" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
       <window_info anchor="bottom" id="Sequence" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.07122507" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49865952" weight="0.3109843" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.17560321" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979424" visible="true" weight="0.22654155" />
       <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.16756032" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.39942938" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5020576" side_tool="true" weight="0.18498659" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.47654155" weight="0.3266762" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -362,33 +416,33 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47503567" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.16957104" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979424" visible="true" weight="0.21045576" />
       <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.16756032" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47520107" visible="true" weight="0.3067047" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39942938" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3751783" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Sequence" order="11" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3266762" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.39942938" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49865952" weight="0.3580599" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5247989" side_tool="true" visible="true" weight="0.3067047" />
       <window_info anchor="right" id="PlantUML" order="8" weight="0.3297587" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.47654155" weight="0.3266762" />
+      <window_info anchor="bottom" id="Sequence" order="11" />
+      <window_info id="Favorites" order="6" sideWeight="0.5020576" side_tool="true" weight="0.18498659" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -396,7 +450,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -404,316 +458,359 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor04/selfprocedure/Sort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor09/collection/mylist/MyListADT.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="768">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor06/textbookcode.java" />
-    <entry file="file://$PROJECT_DIR$/bookforjava.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
+    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2584">
-          <caret line="114" column="27" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="27" />
+        <state relative-caret-position="285">
+          <caret line="631" column="47" selection-start-line="631" selection-start-column="22" selection-end-line="631" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Comparable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/myselfLamda/IntesSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="136" column="24" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="24" />
+        <state relative-caret-position="-672">
+          <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="1584" column="17" selection-start-line="1584" selection-start-column="17" selection-end-line="1584" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="2440" selection-start-line="2440" selection-end-line="2440" />
+        <state relative-caret-position="32">
+          <caret line="1507" column="29" selection-start-line="1507" selection-start-column="20" selection-end-line="1507" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/Array.java">
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_3_LinkedLIst/LinkedListOfMethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="282">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringAPI.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor09/collection/mylist/MyArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="352">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor06/textbookcode/Lambda.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor09/collection/set/hashSet/TextHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="30" column="46" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="46" />
+        <state relative-caret-position="320">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/Equals.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor09/text/Text1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="-736">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor09/text/Text2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_7_TreeMap/SortedMapToTreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_7_TreeMap/TreeMapOfMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_4_HashSet/HashSetOfMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_5_TreeSet/TreeSetOfMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_3_LinkedLIst/aboutLinkedList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_3_ArrayDeque/aboutArrayDeque.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_6_PriorityQueue/PriorityQueueOfMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_6_PriorityQueue/aboutPriorityQueue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_1_Vector/VectorOfMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="133" column="25" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_2_ArrayList/aboutArrayList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_1_Vector/aboutVecotr.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_4_HashSet/aboutHashSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/WeakHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="839" selection-start-line="839" selection-end-line="839" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_8_HashMap/aboutHashMao">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3936">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18080">
+          <caret line="565" selection-start-line="565" selection-end-line="565" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor10/Myself.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_8_HashMap/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="90" column="37" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/knowledge/TextString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_7_TreeMap/aboutTreeMap">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collectionAPI/API_5_TreeSet/aboutTreeSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00bd00cb00f2004400d2003b00e100cb.temp/java核心技术卷一/bookforjava/src/com/chaptor10/IamgeUse.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00bf00df0073006300a500ea00c100c8.temp/META-INF/MANIFEST.MF" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00b5001d0085004a0073003300950037.temp/java核心技术卷一/bookforjava/src/com/chaptor10/IamgeUse.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/008d007300dd004f00330039001b00cb.temp/META-INF/MANIFEST.MF" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00b200a7001b0071008a003100c2003a.temp/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor10/PlafFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.desktop/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5440">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6742#6743#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/ForXunHuan.java">
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor10/Myself.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor10/Myself.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor10/Myself1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor10/IamgeUse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="864">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <folding>
+            <element signature="e#738#739#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor05/Enum.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jjf1" />
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor10/jjf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor03/selfprocedure/StringKnow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/com/test2">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/myselfLamda/IntesSort.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00ad0023006f000900ff00c4002100b3.temp/META-INF/MANIFEST.MF" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00bc009e0073003c00ff006200c90007.temp/META-INF/MANIFEST.MF" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00980083000d00a200f500e500750010.temp/java核心技术卷一/bookforjava/src/com/chaptor10/IamgeUse.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00af00c300d1007300a0005b004500fc.temp/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/com/chaptor10/PreferencesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/myselfLamda/MyselfLambda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/myselfLamda/MyselfInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/myselfLamda/LambdaTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/myselfLamda/Lamdaparent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/methodreference/Test1Interface.java" />
-    <entry file="file://$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Object.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/methodreference/ConstructeReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/methodreference/Test3MethRefe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="85" column="14" lean-forward="true" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/methodreference/MethodReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-661">
-          <caret line="126" column="23" lean-forward="true" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor06/textbookcode/proxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/ArrayClone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="71" column="31" lean-forward="true" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/bookforjava/com/knowledge/Myclass1.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-433">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="556" column="32" selection-start-line="556" selection-start-column="24" selection-end-line="556" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/proxy/Proxy1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hs_err_pid130264.log" />
-    <entry file="file://$PROJECT_DIR$/out/production/bookforjava/com/chaptor07/test_assert/TheFirstUseAssert.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor07/test_assert/TheFirstUseAssert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor07/test_assert/TheTwoUseAssert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log.log.0" />
-    <entry file="file://$PROJECT_DIR$/log.log.2" />
-    <entry file="file://$PROJECT_DIR$/log.log.1" />
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor07/test_log/Log1ForInternet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3360">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor07/test_log/log.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor07/test_log/MyFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mylog.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor07/test_log/Log2ForText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/methodreference/大总结.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/myselfLamda/lambda.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/TextString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="80" column="9" selection-start-line="80" selection-start-column="9" selection-end-line="80" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/knowledge/Object.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor08/generic/GenericMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor08/genericpinb/Bind1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1664">
-          <caret line="129" column="46" lean-forward="true" selection-start-line="129" selection-start-column="46" selection-end-line="129" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chaptor08/bookfortext/GenericReflectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#printMethod#0;class#GenericReflectionTest#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Kuaizip/00af004000360095007900c500e100e9.temp/com/test1/JarTest1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bookforjava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
